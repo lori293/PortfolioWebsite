@@ -1,0 +1,14 @@
+/* *{
+    scroll-behavior: smooth;
+} */
+.clr{
+    background-color: black;
+    margin: 0px 0px 0px 0px ;
+}
+.link{
+    text-decoration: none;
+    color: rgb(240, 239, 228);
+}
+.link:hover{
+    color: rgb(240, 239, 228);
+}
