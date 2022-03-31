@@ -18,7 +18,7 @@ const Contact = () => {
             'CSkJSBQAQsVSE-lvf'
         ).then(res => {
             console.log(res);
-            alert("Mail has been send successfully!")
+            alert("Mail has been sent successfully!")
         }).catch(err => {
             console.log(err);
             alert("Something wrong has happened!")

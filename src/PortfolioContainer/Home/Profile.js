@@ -37,7 +37,7 @@ export default function Porfolio() {
                                         1000,
                                         "UI/UX Designer",
                                         1000,
-                                        "React/React Native Dev",
+                                        "ReactJs Dev",
                                         1000,
                                     ]}
                                 />

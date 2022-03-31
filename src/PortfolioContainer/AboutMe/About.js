@@ -22,7 +22,7 @@ export default function About() {
                         <div className='about-picture-background'>
                         </div>
                     </div>
-                    <div className='col-md-6'>
+                    <div className='col-md-6 dnk'>
                         <div className='description'>
                             <span className=''>
                                 I'm an experienced web developer holding strong interest in
